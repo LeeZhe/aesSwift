@@ -43,7 +43,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func aaa(){
         print(aaaaaaaaaaaa)
     }
-
+    func bbbb{
+        print(nnnnnnnnnn)
+    }
 
 }
 
